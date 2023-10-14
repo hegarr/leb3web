@@ -69,7 +69,7 @@
 </html>
 ```
 ## Hasil Output
-![gambar/3.1.png]
+![3 1](https://github.com/hegarr/leb3web/assets/145521387/4e22ab67-d1d8-47e9-9d6b-49854622c132)
 ## Membuat Tabel
 * Buat file baru dengan nama ```lab3_tabel.html``` seperti berikut.
 ```python
@@ -152,7 +152,7 @@
 </html>
 ```
 ## Hasil Output
-![gambar/3.2.png]
+![3 2](https://github.com/hegarr/leb3web/assets/145521387/148e3694-17a4-452d-a995-8858a8b684a4)
 ## Membuat Form
 * Buat file baru dengan nama ```lab3_form.html``` seperti berikut.
 ```python
@@ -209,7 +209,7 @@
 </html>
 ```
 ## Hasil Output
-![gambar/3.3.png]
+![3 3](https://github.com/hegarr/leb3web/assets/145521387/8e110287-0104-444c-bb18-720d61760207)
 ## Tugas menampilkan ```dropdown menu dan listbox``` dengan multiple selection.
 ```python
 <!DOCTYPE html>
@@ -302,4 +302,4 @@
 </html>
 ```
 ## Hasil Output
-![gambar/3.4.png]
+![3 4](https://github.com/hegarr/leb3web/assets/145521387/2b93c081-2164-430b-b9d1-bc4c1d73c9bf)
